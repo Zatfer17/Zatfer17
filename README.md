@@ -10,7 +10,7 @@ Pursuing a master's double degree in Data Science at PoliMi/KTH within the EIT D
 - **Machine Learning Engineer** at Huawei Research Center in Stockholm;
 - **Software Engineer** at [Wophoto](https://wophoto.it/), a project I'm working at with some friends;
 
-🕹️ Projects:
+🕹️ Recent Projects:
 - Data Driven Storytelling: together with [Mattia](https://github.com/mattiasu96), [Carlo](https://github.com/carlovitellio) and [Virginia](https://github.com/VirginiaMigliorini), I wrote a report on sustainable fishing leveraging open data;
 
 ☎️ Contacts:
