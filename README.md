@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ciao 👋
 
 Pursuing a master's double degree in Data Science at PoliMi/KTH within the EIT Digital program. Currently working as a Data Science intern at Huawei Research Center in Stockholm while writing my master thesis. I enjoy words (former classicist here), data and bots.
 
