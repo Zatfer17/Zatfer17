@@ -11,7 +11,7 @@ Pursuing a master's double degree in Data Science at PoliMi/KTH within the EIT D
 - **Software Engineer** at [Wophoto](https://wophoto.it/), a project I'm working at with some friends;
 
 🕹️ Recent Projects:
-- Data Driven Storytelling: together with [Mattia](https://github.com/mattiasu96), [Carlo](https://github.com/carlovitellio) and [Virginia](https://github.com/VirginiaMigliorini), I wrote a report on sustainable fishing leveraging open data;
+- Data Driven Storytelling: together with [Mattia](https://github.com/mattiasu96), [Carlo](https://github.com/carlovitellio) and [Virginia](https://github.com/VirginiaMigliorini), I wrote a [report](https://team-footplus.medium.com/who-will-be-caught-in-the-net-an-unsung-story-on-the-ecological-impact-of-fishing-and-aquaculture-96e2d640d3b3) on sustainable fishing leveraging open data;
 
 ☎️ Contacts:
 - [Linkedin](https://www.linkedin.com/in/matteo-ferrini/);
