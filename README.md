@@ -1,6 +1,6 @@
 ### 👋 Hello world!
 
-<img align='right' src="https://media1.tenor.com/images/15a8b26cd29f81fa4bbe81040ac8becd/tenor.gif?itemid=15987423" width="420" height="360">
+<img align='right' src="https://media1.tenor.com/images/15a8b26cd29f81fa4bbe81040ac8becd/tenor.gif?itemid=15987423" width="420" height="355">
 
 ```python
 from datetime import date
