@@ -11,7 +11,7 @@ def get_current_age(born):
     today = date.today()
     return today.year - \
            born.year - \
-           ((today.month, today.day) < (born.month, born.day))
+           ((today.month,today.day) < (born.month,born.day))
 
 class Matteo:
     age = get_current_age()
