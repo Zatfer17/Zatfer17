@@ -19,7 +19,8 @@ Pursuing a master's double degree in Data Science at PoliMi/KTH within the EIT D
 ☎️ Contacts:
 - [Linkedin](https://www.linkedin.com/in/matteo-ferrini/);
 - [Facebook](https://www.facebook.com/matteo.ferrini.9);
-- [Steam](https://steamcommunity.com/id/zapatone17);
+- [Discord](https://discordapp.com/users/176350044717318145/);
+- [Steam](https://steamcommunity.com/id/zapatone17).
 
 <!--
 **Zatfer17/Zatfer17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
