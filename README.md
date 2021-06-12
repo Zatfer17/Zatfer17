@@ -27,7 +27,7 @@ me = Matteo()
 ---
 
 ### 🧐 About me
-Pursuing a master's double degree in Data Science at PoliMi/KTH within the [EIT Digital Program](https://masterschool.eitdigital.eu/). Currently working as a **Machine Learning Engineer** intern at **Huawei Research Center** in Stockholm, while writing my thesis. I enjoy words (former classicist here), (e)sport analytics and bots.
+Pursuing a master's double degree in Data Science at PoliMi/KTH within the [EIT Digital Program](https://masterschool.eitdigital.eu/). Currently working as a **Machine Learning Engineer** intern at **Huawei Research Center** in Stockholm, while writing my thesis. I enjoy words (former classicist here), e-sports analytics and bots.
 
 ---
 
