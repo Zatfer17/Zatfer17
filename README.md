@@ -32,6 +32,7 @@ Pursuing a master's double degree in Data Science at PoliMi/KTH within the [EIT 
 ---
 
 ### 🕹️ My projects
+- [My website](https://www.matteoferrini.xyz/): realized with [Notion](https://www.notion.so/) and [Fruition](https://fruitionsite.com/);
 - [Data Driven Storytelling](https://team-footplus.medium.com/who-will-be-caught-in-the-net-an-unsung-story-on-the-ecological-impact-of-fishing-and-aquaculture-96e2d640d3b3): together with [Mattia](https://github.com/mattiasu96), [Carlo](https://github.com/carlovitellio) and [Virginia](https://github.com/VirginiaMigliorini), I wrote a report on sustainable fishing leveraging open data;
 - [Potter Time](https://zatfer17.github.io/): a 25h clock, basically [I hacked time](https://youtu.be/Qp61ysbPG-8?t=157);
 - [Museec](https://museec2.bubbleapps.io/version-test/index/Lorem%20ipsum...?debug_mode=true): an AI generated museum exhibition at your fingertips, hit me up if you want an invite to try it;
@@ -40,6 +41,7 @@ Pursuing a master's double degree in Data Science at PoliMi/KTH within the [EIT 
 ---
 
 ### 🔦 Find me on
+- [My website](https://www.matteoferrini.xyz/);
 - [Linkedin](https://www.linkedin.com/in/matteo-ferrini/);
 - [Facebook](https://www.facebook.com/matteo.ferrini.9);
 - [Discord](https://discordapp.com/users/176350044717318145/);
