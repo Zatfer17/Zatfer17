@@ -27,12 +27,12 @@ me = Matteo()
 ---
 
 ### 🧐 About me
-Pursuing a master's double degree in Data Science at PoliMi/KTH within the [EIT Digital Program](https://masterschool.eitdigital.eu/). Currently working as a **Machine Learning Engineer** intern at **Huawei Research Center** in Stockholm, while writing my thesis. I enjoy words (former classicist here), e-sports analytics and bots.
+Pursuing a master's double degree in Data Science at PoliMi/KTH within the [EIT Digital Program](https://masterschool.eitdigital.eu/). Currently working as a **Data Scientist** at **Lendify** in Stockholm. I enjoy words (former classicist here), e-sports analytics and bots.
 
 ---
 
 ### 🕹️ My projects
-- [My website](https://www.matteoferrini.xyz/): realized with [Notion](https://www.notion.so/) and [Fruition](https://fruitionsite.com/). I try to keep my digital identity as minimal as possible, so using Notion, which I already use daily, seemed like the perfect choice to me;
+- [My website](https://www.matteoferrini.xyz/): realized with [Notion](https://www.notion.so/) and [Fruition](https://fruitionsite.com/);
 - [Data Driven Storytelling](https://team-footplus.medium.com/who-will-be-caught-in-the-net-an-unsung-story-on-the-ecological-impact-of-fishing-and-aquaculture-96e2d640d3b3): together with [Mattia](https://github.com/mattiasu96), [Carlo](https://github.com/carlovitellio) and [Virginia](https://github.com/VirginiaMigliorini), I wrote a report on sustainable fishing leveraging open data;
 - [Potter Time](https://zatfer17.github.io/): a 25h clock, basically [I hacked time](https://youtu.be/Qp61ysbPG-8?t=157);
 - [Museec](https://museec2.bubbleapps.io/version-test/index/Lorem%20ipsum...?debug_mode=true): an AI generated museum exhibition at your fingertips, hit me up if you want an invite to try it;
