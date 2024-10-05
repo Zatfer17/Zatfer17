@@ -37,7 +37,7 @@ Pursuing a master's double degree in Data Science at PoliMi/KTH within the [EIT 
 - [Potter Time](https://zatfer17.github.io/): a 25h clock, basically [I hacked time](https://youtu.be/Qp61ysbPG-8?t=157);
 - [Museec](https://museec2.bubbleapps.io/version-test/index/Lorem%20ipsum...?debug_mode=true): an AI generated museum exhibition at your fingertips, hit me up if you want an invite to try it;
 - [Doink!](https://github.com/Zatfer17/Doink-the-game): an 80s inspired Android 2D game written in LUA. Can be downloaded from the Play Store at this [link](https://play.google.com/store/apps/details?id=com.qwerteam.Doink&hl=en_US&gl=US). Fun fact: the name comes from a popular [move](https://www.youtube.com/watch?v=pWVBrlGZMYM) in Rocket League.
-- [gmLytics](https://github.com/Zatfer17/esports-stats-website): a Streamlit app to visualize 10 years of esports data, following FBRef and StatsBomb visualizations styles.
+- [esports-stats-website](https://github.com/Zatfer17/esports-stats-website): a Streamlit app to visualize 10 years of esports data, following FBRef and StatsBomb visualizations styles.
 
 ---
 
