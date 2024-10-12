@@ -18,8 +18,8 @@ class Matteo:
     age = get_current_age()
     title = 'Data Scientist'
     university = ['PoliMi', 'KTH']
-    work_experience = ['Huawei']
-    language = ['C', 'Java', 'Python', 'Lua']
+    work_experience = ['Huawei', 'Lunar']
+    language = ['C', 'Java', 'Python', 'Lua', 'Go', 'html']
     
 me = Matteo()
 ```
@@ -27,7 +27,7 @@ me = Matteo()
 ---
 
 ### 🧐 About me
-Pursuing a master's double degree in Data Science at PoliMi/KTH within the [EIT Digital Program](https://masterschool.eitdigital.eu/). Currently working as a **Data Scientist** at **Lendify** in Stockholm. I enjoy words (former classicist here), e-sports analytics and bots.
+Pursued a master's double degree in Data Science at PoliMi/KTH within the [EIT Digital Program](https://masterschool.eitdigital.eu/). Currently working as a **Data Scientist/ML Engineer** at **Lunar** in Copenhagen. I enjoy words (former classicist here), e-sports analytics and bots.
 
 ---
 
@@ -38,7 +38,7 @@ Pursuing a master's double degree in Data Science at PoliMi/KTH within the [EIT 
 - [Museec](https://museec2.bubbleapps.io/version-test/index/Lorem%20ipsum...?debug_mode=true): an AI generated museum exhibition at your fingertips, hit me up if you want an invite to try it;
 - [Doink!](https://github.com/Zatfer17/Doink-the-game): an 80s inspired Android 2D game written in LUA. Can be downloaded from the Play Store at this [link](https://play.google.com/store/apps/details?id=com.qwerteam.Doink&hl=en_US&gl=US). Fun fact: the name comes from a popular [move](https://www.youtube.com/watch?v=pWVBrlGZMYM) in Rocket League.
 - [esports-stats-website](https://github.com/Zatfer17/esports-stats-website): a Streamlit app to visualize 10 years of esports data, following FBRef and StatsBomb visualizations styles.
-
+- [kowalski-core](https://github.com/Zatfer17/kowalski-core): a python based read-it later cli, powered by LLMs.
 ---
 
 ### 🔦 Find me on
