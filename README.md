@@ -19,7 +19,7 @@ class Matteo:
     title = 'Data Scientist'
     university = ['PoliMi', 'KTH']
     work_experience = ['Huawei', 'Lunar']
-    language = ['C', 'Java', 'Python', 'Lua', 'Go', 'html']
+    language = ['C', 'Java', 'Python', 'Lua', 'SQL', 'html', 'Go']
     
 me = Matteo()
 ```
