@@ -39,6 +39,8 @@ Pursued a master's double degree in Data Science at PoliMi/KTH within the [EIT D
 - [Doink!](https://github.com/Zatfer17/Doink-the-game): an 80s inspired Android 2D game written in LUA. Can be downloaded from the Play Store at this [link](https://play.google.com/store/apps/details?id=com.qwerteam.Doink&hl=en_US&gl=US). Fun fact: the name comes from a popular [move](https://www.youtube.com/watch?v=pWVBrlGZMYM) in Rocket League.
 - [esports-stats-website](https://github.com/Zatfer17/esports-stats-website): a Streamlit app to visualize 10 years of esports data, following FBRef and StatsBomb visualizations styles.
 - [kowalski-core](https://github.com/Zatfer17/kowalski-core): a python based read-it later cli, powered by LLMs.
+- [tui-network](https://github.com/Zatfer17/tui-network): a Python based TUI for managing the wifi on Linux built with [Textual](https://github.com/Textualize/textual).
+- [tui-settings-manager](https://github.com/Zatfer17/tui-settings-manager): a Python based TUI for managing the settings on Linux built with [Textual](https://github.com/Textualize/textual)
 ---
 
 ### 🔦 Find me on
