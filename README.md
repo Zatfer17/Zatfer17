@@ -18,7 +18,7 @@ class Matteo:
     age = get_current_age()
     title = 'Data Scientist'
     university = ['PoliMi', 'KTH']
-    work_experience = ['Huawei', 'Lunar']
+    work_experience = ['Huawei', 'Lunar'. 'Saxo']
     language = ['C', 'Java', 'Python', 'Lua', 'SQL', 'html', 'Go']
     
 me = Matteo()
@@ -27,7 +27,7 @@ me = Matteo()
 ---
 
 ### 🧐 About me
-Pursued a master's double degree in Data Science at PoliMi/KTH within the [EIT Digital Program](https://masterschool.eitdigital.eu/). Currently working as a **Data Scientist/ML Engineer** at **Lunar** in Copenhagen. I enjoy words (former classicist here), e-sports analytics and bots.
+Pursued a master's double degree in Data Science at PoliMi/KTH within the [EIT Digital Program](https://masterschool.eitdigital.eu/). Currently working as a **Data Scientist** at **Saxo** in Copenhagen. I enjoy music and expected goals.
 
 ---
 
